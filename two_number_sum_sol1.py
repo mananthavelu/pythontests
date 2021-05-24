@@ -3,7 +3,6 @@
 # Given: Sum
 # Given: Find two integers from the array which equals Sum when added.
 
-
 # Solution design
 # 1 to 1 checks using two FOR loops
 def twonumberSum2(array,sum):#Define a function
@@ -19,5 +18,6 @@ def twonumberSum2(array,sum):#Define a function
 array=[1,2,3,4,5]
 print(twonumberSum2(array,3))
 
-#Worst Time complexity: O(nlog(n))
+# Worst Time complexity: 
+# Space complxity
 

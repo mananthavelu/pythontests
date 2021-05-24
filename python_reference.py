@@ -49,6 +49,8 @@ name_height_list = ['Mari', 1.59, 'Muthu', 1.70, 'Abi', 1.67, 'Rami', 1.80]
 print(name_height_list)
 type(name_height_list)
 
+# range(): Create a sequence of numbers from 0 to 5, and print each item in the sequence:
+    
 # Subsetting Lists
 name_height_list[2]
 name_height_list[0]
