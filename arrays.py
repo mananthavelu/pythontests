@@ -13,6 +13,8 @@ Arrays are great for numerical operations; lists cannot directly handle math ope
     2. Sorting an array
     2.1 Find an element either by checking from the front or end
     2.2 
+    3. Reverse an array
+    4. 
     
 """
 
