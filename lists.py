@@ -224,7 +224,7 @@ for i in range(len(arr)-1):
         res=[sum(arr[i][j:j+3]+arr[i+1][j+1]+arr[i+2][j:j+3])]
         print(res)
         lst.append(res)
-    return max(lst)
+
 
 # %%
 a = [1,2,3,4]

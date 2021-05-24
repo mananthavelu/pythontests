@@ -147,7 +147,10 @@ len([1, 2, 3, 4])
 # while
 # for
 # recursion
-
+# variables
+# Control flow
+# Functions
+# Data Types
 # Sorting
 
 # Searching
