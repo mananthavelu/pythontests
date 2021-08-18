@@ -13,9 +13,10 @@ height = 1.79
 weight = 68.7
 result = weight/height**2
 print(result)
-
+2**4
 # Boolean
 Z = True
+Z
 print(type(Z))
 print('ab'+'cd')
 
@@ -31,7 +32,7 @@ type(weight)
 
 # Strings
 name = 'Marimuthu Ananthavelu'
-
+name
 # Boolean
 height = 1.79
 tall = True
@@ -130,6 +131,12 @@ print(square_of_4)
 
 #Syntax :range(start, stop, step)
 print(range(len([1, 2, 3, 4, 5])))
+print(range(5))
+
+for item in range(5):
+    print(item)
+
+
 
 x = range(3, 6)
 for n in x:
@@ -145,8 +152,20 @@ len([1, 2, 3, 4])
 
 # loops
 # while
+i=10
+while i>5:
+    i-=1
+    print(i)
+
+
 # for
+for item in "Hello world":
+    print (item)
+
 # recursion
+
+
+
 # variables
 # Control flow
 # Functions
@@ -368,3 +387,5 @@ if __name__ == '__main__':
 
 
 # Methods
+
+#enumerate(string)

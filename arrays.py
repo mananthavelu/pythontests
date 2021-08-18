@@ -8,7 +8,9 @@ Arrays are great for numerical operations; lists cannot directly handle math ope
 
 """
     1. Go over each element: 
+    range()
     1.1 For Checking is an element is present
+    
     1.2 For checking if an element meets some conditions
     2. Sorting an array
     2.1 Find an element either by checking from the front or end

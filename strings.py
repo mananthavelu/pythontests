@@ -8,7 +8,7 @@ print(message1)
 
 
 message2='Hello buddy\'s'
-print(message2)
+print(message2[::-1])
 
 
 message3='"This" is important'
@@ -67,3 +67,5 @@ print(message.isupper())
 'zfill']
 """
 print(help(str.lower))
+
+#enumerate(string)
